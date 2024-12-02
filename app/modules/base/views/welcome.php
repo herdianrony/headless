@@ -1,0 +1,1 @@
+<h1>Welcome <?= $this->e($message) ?></h1>
